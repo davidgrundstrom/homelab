@@ -29,3 +29,7 @@ longhorn:
       type: ClusterIP
     manager:
       type: ClusterIP
+
+  # Set to true after the first installation
+  helmPreUpgradeCheckerJob:
+    enabled: false
