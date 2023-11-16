@@ -32,4 +32,4 @@ longhorn:
 
   # Set to true after the first installation
   helmPreUpgradeCheckerJob:
-    enabled: false
+    enabled: true
