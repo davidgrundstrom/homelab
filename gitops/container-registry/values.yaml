@@ -1,0 +1,5 @@
+container-registry:
+  autoscaling:
+    enabled: true
+  garbageCollect:
+    enabled: true
